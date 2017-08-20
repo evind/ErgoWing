@@ -1,5 +1,7 @@
 # ErgoWing Mechanical Keyboard
 
+(./ergowing.jpg)
+
 ErgoWing is a custom design mechanical keyboard heavily inspired by the [ErgoDox](https://www.ergodox.io/)
 and [Atreus](https://atreus.technomancy.us/) mechanical keyboards.
 
