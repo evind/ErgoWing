@@ -20,3 +20,6 @@ There is no kerf accounted for in the CAD files - adjustments will need to be ma
 kerf requirements of your cutting method/material used.
 
 Please double check all dimensions if you plan to use these files.
+
+## Firmware
+I forked [qmk_firmware](https://github.com/qmk/qmk_firmware) and modified the gh60 files to create the firmware for this keyboard. It can be found [here](https://github.com/evindarling/qmk_firmware). The relevant files are in keyboards/handwired/ergowing.
